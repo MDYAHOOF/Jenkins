@@ -1,4 +1,4 @@
-public class JenkinFile {
+public class Jenkins {
 
 
 
